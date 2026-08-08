@@ -1,26 +1,78 @@
 ---
-title: "Home"
+title: ""
 ---
+
+::: {.hero}
+
+::: {.hero-photo}
+![](assets/images/profile.png){#profile-photo}
+:::
+
+::: {.hero-content}
 
 # Eugene Sogbe, PhD
 
-## Researcher in Transport and Mobility
+Researcher in Transport and Mobility
 
-**Public Transport • Travel Behaviour • Transport Safety • Transport Planning**
+:::
+
+:::
 
 ---
 
-I am a transport engineer and researcher specializing in public transport, travel behaviour, transport safety, and transport planning. My research combines behavioural modelling, policy analysis, and evidence-based planning to improve transport systems and mobility outcomes, particularly in developing and emerging economies.
+I am a researcher in transport and mobility specialising in public transport, travel behaviour, transport safety, and transport planning. My research seeks to improve transport systems through a deeper understanding of travel behaviour, evidence-based planning, and the development of safer, more sustainable mobility solutions.
 
-## Research Interests
+---
 
-- Public Transport
-- Travel Behaviour
-- Transport Safety
-- Transport Planning
+<div class="profile-links">
 
-## Welcome
+[{{< fa brands google-scholar >}} Google Scholar](https://scholar.google.com/citations?hl=en&user=56hnKfYAAAAJ&view_op=list_works&sortby=pubdate){target="_blank"}
 
-Welcome to my academic website. This platform showcases my research, publications, projects, teaching activities, and professional contributions in transport and mobility.
+[{{< fa brands orcid >}} ORCID](https://orcid.org/0000-0002-9243-3481){target="_blank"}
 
-As my academic career develops, this website will continue to grow with new research projects, publications, collaboration opportunities, and student supervision information.
+[{{< fa brands researchgate >}} ResearchGate](https://www.researchgate.net/profile/Eugene-Sogbe){target="_blank"}
+
+[{{< fa brands linkedin >}} LinkedIn](https://www.linkedin.com/in/eugene-sogbe){target="_blank"}
+
+[{{< fa envelope >}} Email](mailto:eksogbe@gmail.com)
+
+</div>
+
+
+## Research Areas
+
+<div class="research-grid">
+
+<div class="research-item">
+
+### 🚉 Public Transport
+
+Understanding and improving public transport systems, service quality, accessibility, and ridership.
+
+</div>
+
+<div class="research-item">
+
+### 🚶 Travel Behaviour
+
+Investigating behavioural factors influencing travel choices and mobility patterns.
+
+</div>
+
+<div class="research-item">
+
+### 🛡️ Transport Safety
+
+Improving transport safety through behavioural research and evidence-based interventions.
+
+</div>
+
+<div class="research-item">
+
+### 🗺 Transport Planning
+
+Supporting sustainable and efficient transport systems through planning and policy research.
+
+</div>
+
+</div>

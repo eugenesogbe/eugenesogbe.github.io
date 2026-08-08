@@ -1,0 +1,27 @@
+<div class="projects">
+
+## Doctoral Research
+
+### Public Transport Ridership and Mobility Behaviour
+
+This doctoral research examined the factors shaping public transport use, ridership, passenger experiences, accessibility, and travel behaviour. The research brought together behavioural and transport-planning perspectives to develop a deeper understanding of public transport use across different user groups and contexts.
+
+### Mobility-as-a-Service (MaaS) Adoption
+
+This doctoral research investigated the adoption of Mobility-as-a-Service (MaaS) and the factors shaping individuals' intentions and preferences toward integrated mobility services. The research examined differences among potential user groups and explored the behavioural factors associated with MaaS adoption.
+
+## Ongoing Research
+
+### Bike-Sharing Systems for Sustainable Campus Mobility
+
+An ongoing study examining the adoption of bike-sharing as a sustainable mobility option in university settings. The research explores factors influencing perceptions and intentions toward bike-sharing and contributes to understanding sustainable campus mobility.
+
+### Travel Behaviour in Crowded Urban BRT Corridors
+
+An ongoing study investigating how experiences and perceptions of the urban travel environment influence travel behaviour and decisions about continuing, avoiding, or changing modes of travel.
+
+### Disrupted Rail Travellers' Behaviour 
+
+An ongoing study examining how passengers respond to unexpected public transport service disruptions, with a focus on passenger decision-making, behavioural responses, and coping strategies.
+
+</div>

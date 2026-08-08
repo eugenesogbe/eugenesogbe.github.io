@@ -1,0 +1,41 @@
+<div class="publications">
+
+## Peer-reviewed Journal Articles
+
+### 2026
+
+**Sogbe, E.**, Susilawati, S., Becky P.Y. Loo (2026). [Navigating the daily grind: A latent class analysis of bus commuter stress](https://doi.org/10.1016/j.ijtst.2025.12.002). *International Journal of Transportation Science and Technology*.
+
+**Sogbe, E.**, Susilawati, S., Currie, G. (2026). [Rethinking urban mobility: A latent class analysis of Mobility-as-a-Service (MaaS) adoption tendencies](https://doi.org/10.1016/j.cities.2026.106908). *Cities*.
+
+**Sogbe, E.**, Susilawati, S., Currie, G. (2026). [Imagining MaaS futures in urban Ghana: How service features, demographics, and travel behaviour shape user intentions](https://doi.org/10.1016/j.rtbm.2025.101593). *Research in Transportation Business & Management*.
+
+**Sogbe, E.**, Susilawati, S., Becky P.Y. Loo, Currie, G., Tan, C.P., Teh, P.L., Vaithilingam, S. (2026). [Person-environment fit theory in urban walking: An evaluation of subjective influences and the mediating role of perceived security in Kuala Lumpur](https://doi.org/10.1016/j.cities.2025.106551). *Cities*.
+
+### 2025
+
+**Sogbe, E.**, Susilawati, S., Currie, G., Tan, C.P. (2025). [Shifting gears: Exploring private car users’ perception of public transport ridership](https://doi.org/10.1080/15568318.2025.2603456). *International Journal of Sustainable Transportation*.
+
+**Sogbe, E.**, Susilawati, S. (2025). [Dissecting pedestrian behaviour in Ghana: A cluster-based analysis of safety and risk profiles](https://doi.org/10.1080/17457300.2025.2551560). *International Journal of Injury Control and Safety Promotion*.
+
+**Sogbe, E.**, Susilawati, S., Currie, G., Tan, C.P. (2025). [Exploring factors influencing first-mile and last-mile connections to public transport from car users' perspective: Evidence from Greater Accra, Ghana](https://doi.org/10.1016/j.jtrangeo.2025.104240). *Journal of Transport Geography*.
+
+**Sogbe, E.**, Susilawati, S., Tan, C.P. (2025). [Scaling up public transport usage: A systematic literature review of service quality, satisfaction and attitude towards bus transport systems in developing countries](https://doi.org/10.1007/s12469-024-00367-6). *Public Transport*.
+
+### 2024
+
+**Sogbe, E.**, Susilawati, S., Tan, C.P. (2024). [First-mile and last-mile externalities: Perspectives from a developing country](https://doi.org/10.1016/j.jtrangeo.2024.104037). *Journal of Transport Geography*.
+
+**Sogbe, E.**, & Susilawati, S. (2024). [Assessing shared auto-rickshaws adoption by intra-city commuters as part of the public transport system: The influence of negative encounters on passenger satisfaction](https://doi.org/10.1016/j.trf.2024.05.009). *Transportation Research Part F: Traffic Psychology and Behaviour*.
+
+**Sogbe, E.** (2024). [An investigation into drivers' yielding behaviour at marked uncontrolled pedestrian crossings in Ghana](https://doi.org/10.1016/j.iatssr.2024.02.002). *IATSS Research*.
+
+### 2021
+
+**Sogbe, E.** (2021). [The evolving impact of the coronavirus (COVID-19) pandemic on public transportation in Ghana](https://doi.org/10.1016/j.cstp.2021.08.010). *Case Studies on Transport Policy*.
+
+### 2020
+
+Akple, M., **Sogbe, E.**, Atombo, C. (2020). [Evaluation of road traffic signs, markings and traffic rules compliance among drivers in Ghana](https://doi.org/10.1016/j.cstp.2020.09.001). *Case Studies on Transport Policy*.
+
+</div>

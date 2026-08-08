@@ -1,2 +1,13 @@
+# Quarto
 /.quarto/
 **/*.quarto_ipynb
+
+# Quarto rendered website
+/_site/
+
+# Private working files
+/private/
+
+# OS files
+.DS_Store
+Thumbs.db

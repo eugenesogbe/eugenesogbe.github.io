@@ -1,0 +1,18 @@
+---
+title: ""
+---
+
+<div class="profile-content">
+
+# About Me
+
+
+Eugene Sogbe is a researcher in transport and mobility who has completed his PhD in Transport Engineering at Monash University Malaysia. He holds a Bachelor of Technology (B.Tech) in Automotive Engineering with First-Class Honours from Kwame Nkrumah University of Science and Technology (KNUST), Ghana, and a Higher National Diploma (HND) in Mechanical Engineering, with a major in Automotive Engineering, from Ho Technical University, Ghana. His academic experience includes teaching and supporting undergraduate education at both Ho Technical University and Monash University Malaysia. At Ho Technical University, he progressed from Teaching Assistant to Coursework Instructor, gaining experience in undergraduate teaching, course delivery, assessment, and student academic support. At Monash University Malaysia, he has served as a Teaching Assistant in the Department of Civil Engineering, supporting undergraduate workshops and practical classes alongside his doctoral research.
+
+Before joining Monash University Malaysia, Eugene gained more than four years of professional engineering experience as a Supervising Engineer at DESK-Air Engineering Consult. In this role, he was involved in the management and delivery of engineering projects, overseeing day-to-day operations, resources, project staff, and contractors. His responsibilities included contract administration, budgeting, procurement and purchasing, financial transactions, and ensuring the delivery of quality engineering services. This professional experience complements his academic background by providing practical experience in project management, engineering operations, and the application of technical knowledge in professional settings.
+
+Eugene's research employs a combination of quantitative and qualitative approaches to investigate transport and mobility problems. His methodological experience includes Structural Equation Modelling (SEM), Latent Class Analysis (LCA), survey-based behavioural research, statistical analysis, and qualitative analysis, including thematic analysis. His research is also theoretically informed by established frameworks drawn from environmental psychology, behavioural science, and information systems and technology adoption. These include the Stimulus–Organism–Response (S-O-R) model, Person–Environment Fit Theory, the Unified Theory of Acceptance and Use of Technology 2 (UTAUT2), the Theory of Planned Behaviour (TPB), and Environmental Stress Theory. He uses these approaches and frameworks to examine behavioural responses, technology adoption, perceptions, attitudes, and decision-making within transport and mobility contexts.
+
+Eugene contributes to the academic community through peer-review and professional service activities. He has reviewed manuscripts for a range of international journals in transport, mobility, safety, and urban studies, including Accident Analysis and Prevention, Public Transport, Travel Behaviour and Society, Journal of Transport Geography, Transport Policy, Transportation Research Interdisciplinary Perspectives, Transportation, Transportation Research Part D: Transport and Environment, Research in Transportation Business & Management and Cities. He has also contributed to academic and professional activities through conference and seminar organisation and other early-career researcher initiatives. Through these activities, he seeks to contribute not only through his own research but also to the broader development of the transport and mobility research community.
+
+</div>
