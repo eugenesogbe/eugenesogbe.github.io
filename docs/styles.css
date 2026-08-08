@@ -1,0 +1,172 @@
+.hero {
+  display: flex;
+  align-items: center;
+  gap: 35px;
+  margin-top: 35px;
+  margin-bottom: 25px;
+}
+
+.hero-photo {
+  flex: 0 0 180px;
+}
+
+#profile-photo {
+  width: 180px;
+  height: 180px;
+  object-fit: cover;
+  border-radius: 50%;
+  display: block;
+  border: 4px solid white;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+}
+
+.hero-content {
+  flex: 1;
+}
+
+.hero-content h1 {
+  font-size: 1.8rem;
+  margin: 0 0 8px 0;
+}
+
+.hero-content p {
+  font-size: 1.0rem;
+  font-weight: 400;
+  margin: 0;
+}
+
+/* Academic profile links */
+
+.profile-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 40px;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+.profile-links a {
+  color:  #333333;
+  text-decoration: none;
+  font-size: 1.05rem;
+  font-weight: 400;
+}
+
+/* Brand colours for academic/social icons */
+
+.profile-links a[href*="scholar"] .fa-brands {
+  color: #4285f4;
+}
+
+.profile-links a[href*="orcid"] .fa-brands {
+  color: #a6ce39;
+}
+
+.profile-links a[href*="researchgate"] .fa-brands {
+  color: #00a99d;
+}
+
+.profile-links a[href*="linkedin"] .fa-brands {
+  color: #0a66c2;
+}
+
+.profile-links a[href^="mailto"] .fa-solid {
+  color: #000000;
+}
+
+.profile-links a:hover {
+  color: #333333;
+  text-decoration: underline;
+}
+
+.profile-links .fa-brands,
+.profile-links .fa-solid {
+  margin-right: 8px;
+  font-size: 1.15rem;
+}
+
+/* Research Areas */
+
+.research-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  column-gap: 70px;
+  row-gap: 10px;
+  margin-top: 30px;
+}
+
+.research-item {
+  padding: 5px 10px 10px 10px;
+}
+
+.research-item h3 {
+  margin-top: 0;
+  margin-bottom: 12px;
+}
+
+.research-item p {
+  margin-top: 0;
+}
+
+/* Profile page */
+
+.profile-content {
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+.profile-content h1 {
+  margin-bottom: 25px;
+}
+
+.profile-content p {
+  font-size: 1rem;
+  line-height: 1.7;
+  margin-bottom: 1.5rem;
+}
+
+.publications a {
+  color: #0F766E;
+}
+
+.publications a:hover {
+  color: #0B5F59;
+}
+
+/* Projects page */
+
+.projects h2 {
+  font-size: 1.35rem;
+}
+
+.projects h3 {
+  font-size: 1.35rem;
+}
+
+/* Teaching page */
+
+.teaching h2,
+.teaching h3 {
+  font-size: 1.35rem;
+}
+
+/* Opportunities page */
+
+.opportunities h2,
+.opportunities h3 {
+  font-size: 1.35rem;
+}
+
+/* Mobile adjustments */
+
+@media (max-width: 768px) {
+
+  .hero {
+    gap: 20px;
+  }
+
+  .profile-links {
+    gap: 20px;
+  }
+
+}
