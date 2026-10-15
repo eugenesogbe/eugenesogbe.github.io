@@ -29,9 +29,6 @@ website:
       - href: resources.qmd
         text: Resources
 
-      - href: cv.qmd
-        text: Curriculum Vitae
-
       - href: contact.qmd
         text: Contact
 
